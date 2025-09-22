@@ -1,0 +1,9 @@
+PROBLEMA:
+Un conjunto residencial no cuenta con el software para hacer el calculo en sus tarifas del parqueadero, para todo tipo de vehiculo, por ende se crea la siguiente solucion.
+
+SOLUCION:
+1. El usuario debe ingresar el tipo de vehiculo que este disponible, con los inputs ya definidos, si el usuario ingresa un tipo de vehiculo invalido, debe volver a empezar el ciclo.
+2. El programa realiza la suma entre la hora de entrada y salida.
+3. Escoge la tarifa ya predipuesta segun el tipo de vehiculo que selecciono.
+4. Ingresa a un bucle WHILE a cumplir la condicion de que el vehiculo tuvo que estar mas de un minuto para hacerle el cobro de la tarifa.
+5. Si el calculo cumple con la condcion del bucle, entonnces muestra en pantalla, el tipo de vehiculo, el tiempo total dentro del parqueadero, la tarifa por cada hora dentro del parqueadero y el total a pagar.
