@@ -4,8 +4,8 @@ import { MovieController } from './movie.controller';
 // Un módulo en NestJS sirve para agrupar controladores, servicios y otros elementos
 // relacionados con una misma funcionalidad (en este caso, "películas").
 @Module({
-    // controllers: aquí registramos los controladores de este módulo.
-    // MovieController manejará las rutas relacionadas con "movie".
+// controllers: aquí registramos los controladores de este módulo.
+// MovieController manejará las rutas relacionadas con "movie".
     controllers: [MovieController],
 
     // providers: se usa para registrar servicios (ej: MovieService),
